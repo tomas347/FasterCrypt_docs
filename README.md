@@ -16,10 +16,10 @@ The FasterCrypt competition will focus on optimization of three key encryption a
 
 ## Process
 1. Judges will test the unmodified algorithms on the target hardware and publish the resulting performance, this will become the mark to beat.
-2. Applicants submit their improved algorithms to the competition judges by the deadline (TODO).
+2. Applicants submit their improved algorithms to the competition judges by the deadline 15 May 2022.
 	- Proposals will remain under embargo until the applicant has won, or is eliminated from the competition
 	- Applicants MAY submit before the deadline for validation from the judges of the correctness of their application.
-3. After the deadline, judges will test the applications on the target hardware (TODO) and publish the results of testing
+3. After the deadline, judges will test the applications on the target hardware and publish the results of testing
 	- All submissions which:
 		1. Are in violation with the rules of the competition, or
 		2. Do not test better than the mark to beat
@@ -51,4 +51,15 @@ If it is agreed between the winning candidate and the competition administrators
 	- The software should work on the same operating systems and processor architectures that it worked on before, any use of assembly instructions which are not available on all processors should use runtime checks to enable itself where available
 	- Code style convensions should be adhered to
 
-
+## Contacts
+### Administrator 
+1. Tomás Leite de Castro:
+	- Email: tomas@leitecastro.com
+	- https://pkt.chat : @tomas347
+	- Discord : @tomaslcastro98
+### Representators
+1. Caleb James DeLisle:
+	- https://pkt.chat : @cjd
+2. James P. Thomas:
+	- https://pkt.chat : @thomasjp0x42
+	- Discord : @thomasjp0x42
