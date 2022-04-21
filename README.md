@@ -1,4 +1,3 @@
-# FasterCrypt_docs
 # FasterCrypt
 FasterCrypt is a competition to optimize 3 encryption algorithms which are used in the PacketCrypt bandwidth hard proof of work. These encryption algorithms are also used in many other software programs so the results of this competition will benefit the entire internet ecosystem.
 
