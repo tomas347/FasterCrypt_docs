@@ -1,5 +1,5 @@
 # FasterCrypt
-FasterCrypt is a competition to optimize 3 encryption algorithms which are used in the PacketCrypt bandwidth hard proof of work. These encryption algorithms are also used in many other software programs so the results of this competition will benefit the entire internet ecosystem.
+FasterCrypt is a competition to optimize 3 encryption algorithms which are used in the PacketCrypt bandwidth hard proof of work. These encryption algorithms are also used in many other software programs so the results of this competition will benefit the entire internet ecosystem. The competition will host both CPU and GPU iterations. Contestants are able to submit their iteration to one or both targets.
 
 ## Algorithms
 The FasterCrypt competition will focus on optimization of three key encryption algorithms used in the popular libsodium encryption library.
