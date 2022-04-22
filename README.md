@@ -1,7 +1,11 @@
 # FasterCrypt
 FasterCrypt is a competition to optimize 3 encryption algorithms which are used in the PacketCrypt bandwidth hard proof of work. These encryption algorithms are also used in many other software programs so the results of this competition will benefit the entire internet ecosystem. The competition will host both CPU and GPU iterations. Contestants are able to submit their iteration to one or both targets.
+
 The GPU and CPU iterations will be considered two different competitions, running parallel to each other.
+
 You can enroll your team until the deadline 15th May 2022
+
+The enrollment is available here -> https://forms.gle/Nb1CJsk6G2fvyugn6
 
 ## Algorithms
 The FasterCrypt competition will focus on optimization of three key encryption algorithms used in the popular libsodium encryption library.
