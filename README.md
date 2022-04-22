@@ -58,7 +58,7 @@ If it is agreed between the winning candidate and the competition administrators
 1. Tomás Leite de Castro:
 	- Email: tomas@leitecastro.com
 	- https://pkt.chat : @tomas347
-	- Discord : @tomaslcastro98
+	- Discord : @tomas347
 ### Representators
 1. Caleb James DeLisle:
 	- https://pkt.chat : @cjd
