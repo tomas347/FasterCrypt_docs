@@ -5,7 +5,7 @@ The GPU and CPU iterations will be considered two different competitions, runnin
 
 You can enroll your team until the deadline 15th May 2022
 
-The enrollment is available here -> https://forms.gle/Nb1CJsk6G2fvyugn6
+The enrollment form is available here -> https://forms.gle/Nb1CJsk6G2fvyugn6
 
 ## Algorithms
 The FasterCrypt competition will focus on optimization of three key encryption algorithms used in the popular libsodium encryption library.
