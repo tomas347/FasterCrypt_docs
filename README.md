@@ -1,6 +1,7 @@
 # FasterCrypt
 FasterCrypt is a competition to optimize 3 encryption algorithms which are used in the PacketCrypt bandwidth hard proof of work. These encryption algorithms are also used in many other software programs so the results of this competition will benefit the entire internet ecosystem. The competition will host both CPU and GPU iterations. Contestants are able to submit their iteration to one or both targets.
 The GPU and CPU iterations will be considered two different competitions, running parallel to each other.
+You can enroll your team until the deadline 15th May 2022
 
 ## Algorithms
 The FasterCrypt competition will focus on optimization of three key encryption algorithms used in the popular libsodium encryption library.
@@ -17,7 +18,7 @@ The FasterCrypt competition will focus on optimization of three key encryption a
 
 ## Process
 1. Judges will test the unmodified algorithms on the target hardware and publish the resulting performance, this will become the mark to beat.
-2. Applicants submit their improved algorithms to the competition judges by the deadline 15 May 2022.
+2. Applicants submit their improved algorithms to the competition judges by the deadline 20th May 2022.
 	- Proposals will remain under embargo until the applicant has won, or is eliminated from the competition
 	- Applicants MAY submit before the deadline for validation from the judges of the correctness of their application.
 3. After the deadline, judges will test the applications on the target hardware and publish the results of testing
@@ -27,7 +28,7 @@ The FasterCrypt competition will focus on optimization of three key encryption a
 
 	- will be eliminated from the competition and the embargo on release of their code will end.
 	- If a submission is deemed to be slightly outside of the rules, for example a deficiency of code style, the judges may at their sole descretion tenatively accept the submission, allowing the contestant to cure deficiencies in the following round.
-4. After results have been published, the fastest proposed implementation will now become the mark to beat and applicants will have Five (5) days to re-submit.
+4. After results have been published, the fastest proposed implementation will now become the mark to beat and applicants will have Eight (8) days to re-submit.
 	- Re-submission will return the process to step 2.
 5. When there is only 1 candidate remaining, they will be declared the winner and the embargo on their submission will end.
 	
