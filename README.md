@@ -58,6 +58,7 @@ If it is agreed between the winning candidate and the competition administrators
 	- Code style convensions should be adhered to
 
 ## Contacts
+Discord link: https://discord.gg/pktcash
 ### Administrator 
 1. Tomás Leite de Castro:
 	- Email: tomas@leitecastro.com
