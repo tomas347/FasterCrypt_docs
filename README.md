@@ -3,7 +3,7 @@ FasterCrypt is a competition to optimize 3 encryption algorithms which are used 
 
 The GPU and CPU iterations will be considered two different competitions, running parallel to each other.
 
-You can enroll your team until the deadline 15th May 2022
+You can enrol your team until the deadline 15th June 2022
 
 The enrollment form is available here -> https://forms.gle/Nb1CJsk6G2fvyugn6
 
